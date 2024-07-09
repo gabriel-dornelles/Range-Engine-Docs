@@ -822,7 +822,6 @@ Image classes
       :return: True if the render was initiated, False if the render cannot be performed (e.g. the camera is active)
       :rtype: bool
 
-   .. method:: refresh()
    .. method:: refresh(buffer, format="RGBA")
 
       Refresh video - render and optionally copy the image to an external buffer then invalidate its current content.

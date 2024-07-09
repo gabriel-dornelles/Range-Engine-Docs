@@ -94,6 +94,7 @@ First of all, move your project .rasec to the **Data** folder and delete the **E
 .. figure:: /manual/tutorials/range_armor/img/dataproject.png
 
 .. _tutorials-range_armor-exporting_your_project-engine-folder:
+
 Engine Folder **(Optional)**
 ----------------------------
 
